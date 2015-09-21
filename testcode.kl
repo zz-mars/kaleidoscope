@@ -1,0 +1,15 @@
+# external functions
+extern sin(arg)
+extern cos(arg)
+extern atan2(arg1 arg2)
+atan2(sin(.2), cos(12))
+
+# compute the n'th fibonacci number
+def fib(n)
+	if x < 3 then
+		1
+	else
+		fib(n-1) + fib(n-2)
+
+# this expression will compute the 40th fib number
+fib(40.1.2.3.a)
